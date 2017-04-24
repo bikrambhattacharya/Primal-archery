@@ -1,0 +1,7 @@
+#GameArea{
+	background-image: url(bg.jpg);
+	background-size: cover;
+}
+img{
+	display: none;
+}
